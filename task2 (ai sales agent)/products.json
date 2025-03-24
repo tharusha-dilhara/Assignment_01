@@ -1,0 +1,20 @@
+[
+    {
+        "name": "ProBook X1 Laptop",
+        "description": "High-performance business laptop with 13th Gen Intel Core i7 processor, 16GB RAM, 1TB SSD, and 14-inch 4K display.",
+        "price": 1299.99,
+        "category": "electronics"
+    },
+    {
+        "name": "GalaxyView Max Tablet",
+        "description": "12.4-inch AMOLED tablet with Snapdragon 8 Gen 2 chipset, 256GB storage, and 120Hz refresh rate display.",
+        "price": 899.99,
+        "category": "electronics"
+    },
+    {
+        "name": "UrbanRider Backpack",
+        "description": "Water-resistant laptop backpack with USB charging port, anti-theft design, and ergonomic shoulder straps.",
+        "price": 79.99,
+        "category": "accessories"
+    }
+]
